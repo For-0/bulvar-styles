@@ -1,0 +1,21 @@
+{
+  "name": "@for-0/bulma-styles",
+  "version": "1.0.0",
+  "description": "A collection of imports from Bulvar with dark mode making it easy to use it across For Zero's applications",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/For-0/bulvar-styles.git"
+  },
+  "author": "@grimsteel",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/For-0/bulvar-styles/issues"
+  },
+  "homepage": "https://github.com/For-0/bulvar-styles#readme",
+  "dependencies": {
+    "@bulvar/bulma": "^0.11.13"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
